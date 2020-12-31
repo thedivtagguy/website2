@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thedivtagguy</title>
+    <link>https://adityatelange.github.io/hugo-PaperMod/</link>
+    <description>Recent content on thedivtagguy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whatsapp Chat Analysis with R</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://adityatelange.github.io/hugo-PaperMod/post/2020-12-01-r-rmarkdown/</guid>
+      <description>R Markdownn{{&amp;lt; sidenote “left” “left-note” “on the right side of the screen.” &amp;gt;}}Sidenotes can also appear on the left of the screen, to help prevent situations in which there are too many sidenotes and not enough space.{{&amp;lt; /sidenote &amp;gt;}}
+Hello this can be a lot of text, or some of text. It can be  formatted tooThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents.</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adityatelange.github.io/hugo-PaperMod/archive/</guid>
+      <description>archive</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adityatelange.github.io/hugo-PaperMod/photography/</guid>
+      <description>mm f/ sec ISO &#34;194mm f/5.6 1/500sec ISO 100&#34;mm f/ sec ISO &#34;mm f/ sec ISO &#34;22mm f/4.5 1/4000sec ISO 400&#34;mm f/ sec ISO &#34;50mm f/3.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adityatelange.github.io/hugo-PaperMod/search/</guid>
+      <description>search</description>
+    </item>
+    
+  </channel>
+</rss>
