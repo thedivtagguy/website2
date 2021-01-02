@@ -2,18 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on thedivtagguy</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/post/</link>
+    <link>https://example.org/post/</link>
     <description>Recent content in Posts on thedivtagguy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Whatsapp Chat Analysis with R</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://example.org/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/post/2020-12-01-r-rmarkdown/</guid>
-      <description>R Markdownn{{&amp;lt; sidenote “left” “left-note” “on the right side of the screen.” &amp;gt;}}Sidenotes can also appear on the left of the screen, to help prevent situations in which there are too many sidenotes and not enough space.{{&amp;lt; /sidenote &amp;gt;}}
-Hello this can be a lot of text, or some of text. It can be  formatted tooThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents.</description>
+      <guid>https://example.org/post/2020-12-01-r-rmarkdown/</guid>
+      <description>Hello this is a summary</description>
     </item>
     
   </channel>

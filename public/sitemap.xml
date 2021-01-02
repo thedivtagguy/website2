@@ -3,64 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/</loc>
+    <loc>https://example.org/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/plot/</loc>
+    <loc>https://example.org/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/post/</loc>
+    <loc>https://example.org/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/r/</loc>
+    <loc>https://example.org/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/r-markdown/</loc>
+    <loc>https://example.org/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/regression/</loc>
+    <loc>https://example.org/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://example.org/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/archive/</loc>
+    <loc>https://example.org/archive/</loc>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/photography/</loc>
+    <loc>https://example.org/search/</loc>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/search/</loc>
-  </url>
-  
-  <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/series/</loc>
+    <loc>https://example.org/series/</loc>
   </url>
   
 </urlset>

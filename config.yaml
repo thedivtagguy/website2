@@ -1,9 +1,10 @@
-baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
+baseURL: "http://thedivtagguy.netlify.app"
 title: "thedivtagguy"
 paginate: 8
 theme: ["hugo-PaperMod", "hugo-shortcode-gallery"]
 enableInlineShortcodes: true
 enableRobotsTXT: true
+label.icon: true
 
 # googleAnalytics: UA-123-45
 
@@ -17,7 +18,7 @@ languages:
         weight: 1
         menu:
             main:
-                - name: Archive
+                - name: Blog
                   url: archive
                   weight: 5
                 - name: Search
@@ -29,6 +30,9 @@ languages:
                 - name: Photography
                   url: photography/
                   weight: 6
+                - name: Projects
+                  url: /projects
+                  weight: 7
    
 outputs:
     home:
@@ -73,7 +77,8 @@ params:
           url: "https://instagram.com/thedivtagguy"
         - name: github
           url: "https://github.com/thedivtagguy"
-
+        - name: stackoverflow
+          url: "https://stackoverflow.com/users/14425671/aman"
 taxonomies:
     category: categories
     tag: tags

@@ -1,5 +1,14 @@
 {{ define "main" }}
 
+
+
+<div id="choose">
+<a href="#monochrome" class="btn"><h2>Monochrome</h2></a>
+
+<a href="#infrared" class="btn"><h2>Infrared</h2></a>
+<a href="#color" class="btn"><h2>Color</h2></a> 
+</div>
+
 <div class ="showcase">
 
 {{ .Content }}
@@ -7,18 +16,35 @@
 </div>
 
 <style>
+#choose {
+  z-index: 99;
+width:100%;
 
-.showcase {
-    width:1500px;
-    padding: 100px;
+  
 }
 
-    main {
-        margin-left: -20px!important;
-    }
-    .gallery1 {
-        padding-bottom: 200px;
-    }
-  
+
+
+.btn{
+  padding-right:300px;
+  padding-left: 30px;
+  background: #353535;
+  border-color: #353535;
+}
+
+
+.showcase {
+ margin-left:-395px; 
+ padding-top:30px;
+ width:1500px;
+}
+
+@media only screen and (max-width: 1000px){
+.showcase {
+ margin-left:0px; 
+ padding-top:30px;
+ width:100%;
+}
+}
 </style>
 {{ end }}
