@@ -52,7 +52,10 @@ params:
     # images: ""
     # assets:
     #   favicon: '<path / external url>'
-
+    mainSections:
+        - projects
+        - photography
+        - post
     profileMode:
         enabled: false
         title: PaperMod
@@ -107,4 +110,6 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
+
+
         
