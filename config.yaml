@@ -1,4 +1,4 @@
-baseURL: "http://thedivtagguy.netlify.app"
+baseURL: "https://thedivtagguy.netlify.app/"
 title: "thedivtagguy"
 paginate: 8
 theme: ["hugo-PaperMod", "hugo-shortcode-gallery"]
