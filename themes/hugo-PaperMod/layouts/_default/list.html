@@ -39,7 +39,6 @@
       {{ .Title }}
       {{- if .Draft }}<div class="entry-isdraft"><sup>&nbsp;&nbsp;[draft]</sup></div>{{- end }}
     </h2>
-    <h5 style="padding-top:10px;"><strong>Project Type: {{ .Params.type }}</strong></h5> 
   </header>
   
   {{- if (ne .Site.Params.hideSummary true)}}
